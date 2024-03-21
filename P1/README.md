@@ -1,6 +1,6 @@
 # DIU - Practica1
 
-> .[!NOTE].
+> [!NOTE]
 > Fata por completar el readme y el usability review de cara a la entrega
 
 ## [USER RESEARCH](https://github.com/jhavimg/DIU/blob/master/P1/User%20Research.pdf)
