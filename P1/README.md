@@ -1,5 +1,8 @@
 # DIU - Practica1
 
+> .[!NOTE].
+> Fata por completar el readme y el usability review de cara a la entrega
+
 ## [USER RESEARCH](https://github.com/jhavimg/DIU/blob/master/P1/User%20Research.pdf)
 
 ## [DESK RESEARCH: COMPETITOR ANALYSIS](https://github.com/jhavimg/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.pdf)
