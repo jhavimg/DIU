@@ -1,12 +1,11 @@
-## DIU - Practica1, entregables
+# DIU - Practica1
 
+## [USER RESEARCH](https://google.com)
 
+## DESK RESEARCH: COMPETITOR ANALYSIS
 
-- User research - (plan) template 
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+## PERSONAS
 
+## JOURNEY MAP
 
-(valoración y conclusiones de esta etapa)
+## USABILITY REVIEW
