@@ -12,6 +12,6 @@
 ## JOURNEY MAP
 # [JOURNEY MAP - Persona fictica 1](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract%20Josemi_Journey_Map.pdf)
 
-# [JOURNEY MAP - Persona fictica 2(https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract%20Alejandro_Journey_Map.pdf)
+# [JOURNEY MAP - Persona fictica 2](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract%20Alejandro_Journey_Map.pdf)
 
 ## [USABILITY REVIEW](https://github.com/jhavimg/DIU/blob/master/P1/Usability-review.xlsx)
