@@ -12,11 +12,13 @@ En este apartado se han elegido dos principales páginas que son: Taller Andaluz
 ### [Persona fictica 1](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract%20Josemi.pdf)
 
 ### [Persona ficticia 2](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract%20Alejandro.pdf)
-En este documento describimos a un usuario llamado Ajejandro Martin, el cuál es un interesado de la cocina 
+En este documento describimos a un usuario llamado Alejandro Martin, el cuál es un interesado de la cocina y con intención de descubrir nuevas gastronomias.
+
 ## JOURNEY MAP
 ### [JOURNEY MAP - Persona fictica 1](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract%20Josemi_Journey_Map.pdf)
 
 ### [JOURNEY MAP - Persona fictica 2](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract%20Alejandro_Journey_Map.pdf)
+Aqui se explica como Alejandro pasaria las distintas etapas de busqueda, decisión... por la pagina del [Taller Andaluz de Cocina](https://tallerandaluzdecocina.com/categorywithcontentss/talleres/)
 
 ## [USABILITY REVIEW](https://github.com/jhavimg/DIU/blob/master/P1/Usability-review.xlsx)
 Para hacer la evalución hemos elegido un punto medio entre los competidores expuestos en el [COMPETIDOR ANALYSIS](https://github.com/jhavimg/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.pdf) ya que los usuarios aparte de elegir cual de los cursos les parece mas interesante, entre todas las paginas que vean al final van elegir aquella que le llame más la atención por lo que desde nuestro punto de vista debemos tener una visión general de los competidores.
