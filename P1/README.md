@@ -6,6 +6,7 @@
 ## [USER RESEARCH](https://github.com/jhavimg/DIU/blob/master/P1/User%20Research.pdf)
 
 ## [DESK RESEARCH: COMPETITOR ANALYSIS](https://github.com/jhavimg/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.pdf)
+hola me llamo
 
 ## PERSONAS
 ### [Persona fictica 1](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract%20Josemi.pdf)
