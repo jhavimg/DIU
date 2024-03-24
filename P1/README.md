@@ -5,7 +5,7 @@
 ## [DESK RESEARCH: COMPETITOR ANALYSIS](https://github.com/jhavimg/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.pdf)
 En este apartado se han elegido dos principales páginas que son: Taller Andaluz de Cocina y La Mesa Malaga. Aparte se ha elegido un tercero, que es Pilsaeduca, ya que nos ha llamado la atención que es en Granada y que lo imparte un famosos cocinero granadino lo que a los usuarios podria llamar más la atención que otra paginas como [Granada Cooking](https://granadacooking.com/taller/taller-de-iniciacion-al-sushi-2023/)
 
-> [NOTE]
+> [!NOTE]
 > Cuando se evalua la compatibilidad de un competidor se está evaluando se que se adapte a diferentes tamaños de pantalla y en diferentes navegadores
 > Para evaluar el tiempo de carga hemos usado la página web de google [PageSpeed Insights](https://pagespeed.web.dev/)
 
