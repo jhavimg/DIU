@@ -12,7 +12,7 @@ En este apartado se han elegido dos principales páginas que son: Taller Andaluz
 ## PERSONAS
 ### [Persona fictica 1](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract_Josemi.pdf)
 
-### [Persona ficticia 2](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract%20Alejandro.pdf)
+### [Persona ficticia 2](https://github.com/jhavimg/DIU/blob/master/P1/DIU_Pract_Alejandro.pdf)
 En este documento describimos a un usuario llamado Alejandro Martin, el cuál es un interesado de la cocina y con intención de descubrir nuevas gastronomias.
 
 ## JOURNEY MAP
