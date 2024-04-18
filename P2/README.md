@@ -17,7 +17,7 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 
 
 ## ARQUITECTURA DE INFORMACIÓN
-### [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
+### [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/Sitemap.png)
 Enlace al editor del sitempa [aqui](https://www.gloomaps.com/6oaPaZdHed)
 ### [LABELLING](https://github.com/jhavimg/DIU/blob/master/P2/Labelling.pdf)
 
