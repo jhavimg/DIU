@@ -3,7 +3,7 @@
 ## REFRAMING/IDEACIÓN
 
 
-## PROPUESTA DE VALOR
+## [PROPUESTA DE VALOR](https://github.com/jhavimg/DIU/blob/master/P2/Propuesta_de_valor.pdf)
 
 
 ## TASK ANALYSIS
@@ -13,9 +13,9 @@
 
 
 ## ARQUITECTURA DE INFORMACIÓN
-
-* Sitemap 
-* Labelling 
+# [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
+Enlace al editor del sitempa [aqui](https://www.gloomaps.com/6oaPaZdHed)
+# LABELING
 
 
 ## Prototipo Lo-FI Wireframe 
