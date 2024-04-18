@@ -13,9 +13,9 @@
 
 
 ## ARQUITECTURA DE INFORMACIÓN
-# [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
+### [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
 Enlace al editor del sitempa [aqui](https://www.gloomaps.com/6oaPaZdHed)
-# LABELING
+### LABELING
 
 
 ## Prototipo Lo-FI Wireframe 
