@@ -1,6 +1,6 @@
 # DIU - Practica 2
 
-## REFRAMING/IDEACIÓN
+## [REFRAMING/IDEACIÓN](https://github.com/jhavimg/DIU/blob/master/P2/Malla%20receptora%20de%20informaci%C3%B3n_EGO.pdf)
 
 
 ## [PROPUESTA DE VALOR](https://github.com/jhavimg/DIU/blob/master/P2/Propuesta_de_valor.pdf)
