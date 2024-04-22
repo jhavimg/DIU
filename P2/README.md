@@ -21,7 +21,7 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
   
   -Buscadores de Convivenciam, es decir, gente que busca conocer gente nueva y nuevas experencias.
 
-  Para puntuar la tarea hemos elegido dar 1 punto si es poco usada, dos si mas o menos usada y tres si es muy usada por los usuarios. La tarea que ha salido como la mas usada/importante es la de reseñar un experiencia.
+  Para puntuar la tarea hemos elegido dar 1 punto si es poco usada, dos si mas o menos usada y tres si es muy usada por los usuarios. La tarea que ha salido como la mas usada/importante es la de ### reseñar una experiencia.
   
 * User/Task flow
 
