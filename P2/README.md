@@ -14,9 +14,12 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 
 * User Task Matrix
   Es una tabla que refleja la importancia de cada uno de la tareas que hemos querido reflejar que puedan hacer los ditintos tipo de usuarios. Los tipos de usuarios que hemos elegido son:
-  *Usurios novatos, es decir, que es la primera vez que utlizan la aplicación o que llevan poco.
-  *Usuartios expertos, es decir, que llevan tiempo interractuando con la aplicación y haciendo cursos.
-  *Buscadores de Convivenciam, es decir, gente que busca conocer gente nueva y nuevas experencias.
+  
+  -Usurios novatos, es decir, que es la primera vez que utlizan la aplicación o que llevan poco.
+  
+  -Usuartios expertos, es decir, que llevan tiempo interractuando con la aplicación y haciendo cursos.
+  
+  -Buscadores de Convivenciam, es decir, gente que busca conocer gente nueva y nuevas experencias.
   
 * User/Task flow
 
