@@ -13,13 +13,15 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 ## TASK ANALYSIS
 
 * User Task Matrix
-  Es una tabla que refleja la importancia de cada uno de la tareas que hemos querido reflejar que puedan hacer los ditintos tipo de usuarios. Los tipos de usuarios que hemos elegido son:
+  Es una tabla que refleja la importancia de cada uno de la tareas, segun la como sea de importante o de usada por los usuarios. Los tipos de usuarios que hemos elegido son:
   
   -Usurios novatos, es decir, que es la primera vez que utlizan la aplicación o que llevan poco.
   
   -Usuartios expertos, es decir, que llevan tiempo interractuando con la aplicación y haciendo cursos.
   
   -Buscadores de Convivenciam, es decir, gente que busca conocer gente nueva y nuevas experencias.
+
+  Para puntuar la tarea hemos elegido dar 1 punto si es poco usada, dos si mas o menos usada y tres si es muy usada por los usuarios. La tarea que ha salido como la mas usada/importante es la de reseñar un experiencia.
   
 * User/Task flow
 
