@@ -12,7 +12,12 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 
 ## TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+  Es una tabla que refleja la importancia de cada uno de la tareas que hemos querido reflejar que puedan hacer los ditintos tipo de usuarios. Los tipos de usuarios que hemos elegido son:
+  *Usurios novatos, es decir, que es la primera vez que utlizan la aplicación o que llevan poco.
+  *Usuartios expertos, es decir, que llevan tiempo interractuando con la aplicación y haciendo cursos.
+  *Buscadores de Convivenciam, es decir, gente que busca conocer gente nueva y nuevas experencias.
+  
 * User/Task flow
 
 
@@ -20,7 +25,7 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 ### [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
 Enlace al editor del sitempa [aqui](https://www.gloomaps.com/6oaPaZdHed)
 ### [LABELLING](https://github.com/jhavimg/DIU/blob/master/P2/Labelling.pdf)
-
+Se describen todos los elementos del [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png) y se da una pequeña explicacion de la función de cada uno.
 
 ## Prototipo Lo-FI Wireframe 
 
