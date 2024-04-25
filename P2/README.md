@@ -1,6 +1,7 @@
 # DIU - Practica 2
 
 ## [REFRAMING/IDEACIÓN](https://github.com/jhavimg/DIU/blob/master/P2/Malla%20receptora%20de%20informaci%C3%B3n_EGO.pdf)
+Aqui exponemos lo que no mas parece lo más relevante de nuestros competidores, es decir, lo que debemos mantener. Las criticas a nuestros competidores, diversas cuestines sobre sobre lo que le gustaria ver a nuestros usuarios y unas cuantas propuestas innivadoras que no tienen nuestro competidores.
 
 # Descripción propuesta de valor
 Nuestra propuesta de valor se centra en ofrecer una experiencia culinaria única y auténtica a través de la comida oriental, con énfasis en el arte del sushi. Sobre todo buscamos fusionar la autenticidad de la cocina orienta con la innovación tecnológica, ofrecemos a nuestros socios una plataforma dinámica donde no solo encuentran cursos y talleres de sushi, sino también simulaciones inmersivas de realidad virtual que llevan a la enseñanza y el disfrute de este mundo en una nueva dimensión.
