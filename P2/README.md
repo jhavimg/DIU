@@ -23,7 +23,7 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 
   Para puntuar la tarea hemos elegido dar 1 punto si es poco usada, dos si mas o menos usada y tres si es muy usada por los usuarios. La tarea que ha salido como la mas usada/importante es la de reseñar una experiencia.
   
-* [User/Task flow](https://github.com/jhavimg/DIU/blob/master/P2/User_Flow.png):
+* [User/Task flow](https://github.com/jhavimg/DIU/blob/master/P2/User-Flow.png):
   Aqui se reflejan los pasos que debe seguir todos los usurios para reseñar/puntuar una experiencia.
 
 
