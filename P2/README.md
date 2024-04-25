@@ -31,7 +31,7 @@ En este [enlace](https://github.com/jhavimg/DIU/blob/master/P2/Propuesta_de_valo
 
 ## ARQUITECTURA DE INFORMACIÓN
 ### [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
-Enlace al editor del sitema [aqui](https://www.gloomaps.com/6oaPaZdHed)
+Enlace al editor del sitema [aqui](https://www.gloomaps.com/6oaPaZdHed). En este archivo se muestra un esquema de nuestra aplicación. Se muetra lo distintos apartados que va tener asi como los sub apartados de cada uno.
 ### [LABELLING](https://github.com/jhavimg/DIU/blob/master/P2/Labelling.pdf)
 Se describen todos los elementos del [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png) y se da una pequeña explicacion de la función de cada uno.
 
