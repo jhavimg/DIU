@@ -8,6 +8,7 @@ Nuestra propuesta de valor se centra en ofrecer una experiencia culinaria única
 
 Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan compartir sus experiencias y aprender más sobre la cultura gastronómica oriental. Nuestra web no solo es un portal para socios con un interés en la cocina oriental, sino que también es un espacio donde los amantes del sushi pueden participar en foros de discusión y mantenerse al día con las últimas tendencias culinarias.
 
+En este [enlace](https://github.com/jhavimg/DIU/blob/master/P2/Propuesta_de_valor.pdf) puede encontrar nuestra propuesta de valor
 ## [PROPUESTA DE VALOR](https://github.com/jhavimg/DIU/blob/master/P2/Propuesta_de_valor.pdf)
 
 
@@ -30,7 +31,7 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 
 ## ARQUITECTURA DE INFORMACIÓN
 ### [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
-Enlace al editor del sitempa [aqui](https://www.gloomaps.com/6oaPaZdHed)
+Enlace al editor del sitema [aqui](https://www.gloomaps.com/6oaPaZdHed)
 ### [LABELLING](https://github.com/jhavimg/DIU/blob/master/P2/Labelling.pdf)
 Se describen todos los elementos del [SITEMAP](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png) y se da una pequeña explicacion de la función de cada uno.
 
@@ -38,4 +39,4 @@ Se describen todos los elementos del [SITEMAP](https://github.com/jhavimg/DIU/bl
 
 
 ## Conclusiones  
-(incluye valoración de esta etapa)
+Esta etapa nos ha parecido realmente importante ya que se realiza un verdadero plantemiento del procesos de diseño de nuestra pagina. Hemos planteado las distintas páginas que va a contener nuestra aplicación, hemos relaizado un analisis de las distintas cosas que puede llegar a realizar un usuraios en nuestra aplicación y hemos valorado cual de ellas son las más relevantes y finalmente hemos realizado un diseño de como va a ser la pagina.
