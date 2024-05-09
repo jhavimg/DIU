@@ -3,7 +3,7 @@
 ## Moodboard (diseño visual + logotipo)   
 
 
-## [Landing page](https://github.com/jhavimg/DIU/blob/master/P3/Moodboard.png)
+## [Landing page](https://github.com/jhavimg/DIU/blob/master/P3/landing-page.png)
 
 
 ## Mockup: LAYOUT HI-FI
