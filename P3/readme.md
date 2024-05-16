@@ -10,7 +10,5 @@
 
 
 ## Documentación: Publicación del Case Study
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+### Moodboard
+En el moodboard planteamos todo lo relacionado con la identidad de nuestra marca, de esta manera definimos que colores vamos a usar, que logo vamos a tener, las tipografías a usar en nuestra aplicación, los iconos que vamos a poner. Incluimos también unos comentarios 
