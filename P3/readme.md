@@ -4,7 +4,7 @@
 Hemos utilizado un moodboard para visualizar y definir la dirección estética de EGO, recopilando imágenes inspiradoras, colores y tipografías que representan el estilo y el ambiente que queremos conseguir
 
 ## [Landing page](https://github.com/jhavimg/DIU/blob/master/P3/landing-page.png)
-El landing page es un diseño de pagina para que los usuarios sean atraidos hacia nuestra aplicación y que refeje la esencia de EGO.
+El landing page es un diseño de pagina para que los usuarios sean atraidos hacia nuestra aplicación y que refeje la esencia de EGO. En ella aparece el logo de EGO, asi como nuestro eslogan, tres motivaciones para que el usuarios se una a nuestra aplicación y una frase motivadora, aparte se indica desde que plataformas está disponible nuestra aplicación.
 
 ## [GUIDELINES](https://github.com/jhavimg/DIU/blob/master/P3/GUIDELINES.pdf)
 En el guidelines se procede a describir lo elementos que compondrán el diseño del Layout HI-Fi decrito debajo, asi como los tamaños de letra, las fuentes y la elección de colores. En el enlace dirige a un pdf donde se hace la descripcion de los elementos y dentro del pdf hay un enlace a figma donde se podrá ver tanto el guidelines como el diseño Layout HI-FI. Aparte en el repositorio se ha subido un .fig con cada uno de estos elemento [aqui](https://github.com/jhavimg/DIU/blob/master/P3/Guidelines%20Los%20Poulla.fig) se deja el enlace al guidelines.
