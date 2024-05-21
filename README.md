@@ -92,7 +92,8 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
+### Sitemap
+![Sitemap](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
 
 >>> Identificar términos para diálogo con usuario  
 
