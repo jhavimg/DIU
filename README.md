@@ -155,15 +155,6 @@ En el guidelines se procede a describir lo elementos que compondrán el diseño 
 ----
 Es un diseño de como se veria nuestra aplicación y la distintas acciones que se pueden llegar a realizar en ella. Primeramente hay una pantalla de carga que dirige automaticamente a la pagina principal donde se pueden se puede ir a la lista de experiencias, al perfil del usuario o pagina como la de las menbresias, el calendario de eventos o a una pagina donde el usuario pueda ver los talleres realizados. Se subido un archivo .fig donde esta el diseño y aparte como antes se ha mencionado también en el pdf del [GUIDELINES](https://github.com/jhavimg/DIU/blob/master/P3/GUIDELINES.pdf) hay un enlace que lleva a Figma donde hay una pagina llamada Layout HI-FI con el diseño.
 
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
-
-
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
 Exportación a HTML/Flutter
