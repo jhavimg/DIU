@@ -68,31 +68,26 @@ La valoración final obtenida es de 68 puntos. En general, el sitio web se puede
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+![Malla_receptora](https://github.com/jhavimg/DIU/assets/28204866/6deeccc3-2cdd-4a83-80e8-7feafbbe1800)
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Nuestra propuesta de valor se centra en ofrecer una experiencia culinaria única y auténtica a través de la comida oriental, con énfasis en el arte del sushi. Sobre todo buscamos fusionar la autenticidad de la cocina orienta con la innovación tecnológica, ofrecemos a nuestros socios una plataforma dinámica donde no solo encuentran cursos y talleres de sushi, sino también simulaciones inmersivas de realidad virtual que llevan a la enseñanza y el disfrute de este mundo en una nueva dimensión.
 
+Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan compartir sus experiencias y aprender más sobre la cultura gastronómica oriental. Nuestra web no solo es un portal para socios con un interés en la cocina oriental, sino que también es un espacio donde los amantes del sushi pueden participar en foros de discusión y mantenerse al día con las últimas tendencias culinarias.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![Propuesta de valor](https://github.com/jhavimg/DIU/assets/28204866/a59f3113-4afd-4141-9617-45c55d1d68a9)
+
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
+### Tasks analysis
+![Tasks_analysis](https://github.com/jhavimg/DIU/assets/28204866/99dc41a5-34e3-4e8d-9055-60edefdbdc27)
 
->>> Definir "User Map" y "Task Flow" ... 
+
+### User flow
+![User Flow](https://github.com/jhavimg/DIU/assets/28204866/43133325-69c3-4fbc-85e6-6579fc8bc077)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
