@@ -5,6 +5,8 @@
 
 ## [Landing page](https://github.com/jhavimg/DIU/blob/master/P3/landing-page.png)
 
+## [GUIDElINES](https://github.com/jhavimg/DIU/blob/master/P3/Guidelines%20Los%20Poulla.fig)
+
 
 ## Mockup: LAYOUT HI-FI
 
