@@ -1,22 +1,22 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
+Grupo: DIU2_LOS_POULLAS.  Curso: 2023/24 
 Updated: 11/2/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Aplicación de experiencias gastronómicas orientales
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Nuestro proyecto consiste en una aplicación de experiencias gastronómicas orientales, concretamente sushi. Que tiene como objetivo ofrecer cursos, talleres y actividades únicas para todos los niveles de conocimiento, así mismo nuestra propuesta consiste en implementar varias memebresías con diferentes niveles que incluyen de menos a más contenido que se adaptan a diferentes necesidades. Además, presentamos cursos tanto online como presenciales y actividades innovadoras de aprendizaje de cocina con realidad virtual. Buscamos que toda la gente que esté interesada en la cocina oriental o realizar actividades ya sea para conocer gente o para divertirse, puedan asistir de forma habitual y que nuestras experiencias estén presentes en sus vidas.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Javier Martínez Godoy     :octocat:     
+ * :bust_in_silhouette:  Jesús Pérez León     :octocat:
 
 ----- 
 
