@@ -1,4 +1,4 @@
-# DIU24
+![image](https://github.com/jhavimg/DIU/assets/28204866/caa202d4-477d-48ef-849e-0e6a5230a6a3)# DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
 Grupo: DIU2_LOS_POULLAS.  Curso: 2023/24 
