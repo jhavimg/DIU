@@ -32,8 +32,10 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
+![Análisis_Competidores
+(https://github.com/jhavimg/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.pdf)
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+Hemos realizado el análisis de 3 webs relacionadas con experiencias gastronómicas orientales, concretamente sushi. Hemos analizado los principales puntos clave de dichas web para saber en que son buenos nuestros competidores y que se les da peor. Todo ello nos sirve para cuando tengamos que plantear una propuesta de valor nuestra, conseguir ser mejores que la competencia conociendolos de cerca.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
