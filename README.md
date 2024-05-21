@@ -78,37 +78,58 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 ![Propuesta de valor](https://github.com/jhavimg/DIU/assets/28204866/a59f3113-4afd-4141-9617-45c55d1d68a9)
-
+En este apartado, realizamos la propuesta de valor partiendo de la malla receptora anterior y las conclusiones que sacamos. Por tanto, planteamos los pilares sobre los que nuestra aplicación se basa. Por un lado tenemos las necesidades del usuario y buscamos satisfacerlas lo máximo posible ya sean motivaodras o inspiren sentimiento de dolor; luego planteamos nuestra propuesta asentando así nuestra filosofía.Después planteamos nuestros objetivos desde un corto plazo a un largo plazo. Ya por últimoo, planteamos las acciones que vamos a llevar a cabor para conseguir todo lo que nos hemos propuesto y las métricas necesarias para medir si mediante nuestras acciones estamos alcanzando los diferentes objetivos.
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 ### Tasks analysis
 ![Tasks_analysis](https://github.com/jhavimg/DIU/assets/28204866/99dc41a5-34e3-4e8d-9055-60edefdbdc27)
 
+En este apartado, realizamos un estudio para averiguar cuales son las acciones más frecuentes que realizan los usuario de nuestra aplicación. Para ello dividimos nuestros usuarios en tres grupo (novatos, expertos y buscadores de convivencia) y a partir de esto vemos si los usuario de cada grupo realizan una determinada acción de forma poco frecuente, media o alta. Una vez todas las acciones han sido marcadas con su frecuencia de uso según el usuario se ordenan de más usadas a menos usadas.
 
 ### User flow
+Una vez hecho el Tasks analysis y ordenadas las acciones de más frecuentes a menos, se coge la acción más frecuente de nuestra aplicación y se hace el User Flow. En este caso la acción más frecuente es "Calificar y reseñar una experiencia".
+
+El User Flow representa paso a paso lo que tendría que hacer un usuario para realizar dicha acción, mostrando lo que hace en la pantalla y donde hace click.
+
 ![User Flow](https://github.com/jhavimg/DIU/assets/28204866/43133325-69c3-4fbc-85e6-6579fc8bc077)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 ### Sitemap
+En el sitemap se representa el esquelo de la página web de nuestra aplicación, mostrando todas las páginas principales y las distintas páginas o apartados que cuelgan de ello.
+También se han puesto de color azul algunas páginas, estas señalan que solo pueden acceder a estas usuario VIP (usuarios suscritos a una membresía).
+
 ![Sitemap](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
 
 ### Labelling
+
+En el Labelling se realiza una explicación exhaustiva de todas las páginas/apartados que comoponen el sitemap. Con esto se consigue que que todas las páginas sean comprendidas por los usuarios y no den lugar a confusiones.
+
 ![Labelling1](https://github.com/jhavimg/DIU/assets/28204866/49bffb94-63db-48d1-8e02-86849b3bc8a5)
 ![Labelling2](https://github.com/jhavimg/DIU/assets/28204866/1509c7ed-83bf-4885-abad-2d0244cd8218)
 
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
-
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+hemos realizado varios bocetos, todos ellos para aplicación web, entre ellos están la página de inciio para ordenador, tablet y movil; luego la página donde se ve una experiencia gastronómica; la página de como hacer una inscripción en una experiencia y por último la página del portal de socios.
+### Inicio ordenador
+![Inicio_pc](https://github.com/jhavimg/DIU/assets/28204866/14e0cc87-8fcc-4d21-9530-37b0a1db15e3)
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+### Inicio tablet
+![Inicio_tablet](https://github.com/jhavimg/DIU/assets/28204866/5e81fdde-0fb0-4f59-9635-2459e9aa159d)
+
+### Inicio móvil
+![Inicio_phone](https://github.com/jhavimg/DIU/assets/28204866/1b6095f9-1d39-43c9-9ab8-3287d193d453)
+
+### Experiencia
+![Experiencia](https://github.com/jhavimg/DIU/assets/28204866/42909fd0-e3da-4217-b46f-5c51c7370d71)
+
+### Realizar inscripción
+![Realizar_inscripcion](https://github.com/jhavimg/DIU/assets/28204866/7e542a46-a831-4eff-b388-e055727a1ed1)
+
+### Portal de socios
+![Portal_de_socios](https://github.com/jhavimg/DIU/assets/28204866/cd6287b9-5208-4cc4-b4b9-a6db27476dcd)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
