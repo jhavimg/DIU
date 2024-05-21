@@ -16,8 +16,8 @@ Logotipo:
 ![image](https://github.com/jhavimg/DIU/assets/28204866/caa202d4-477d-48ef-849e-0e6a5230a6a3)
 
 Miembros
- * :bust_in_silhouette:   Javier Martínez Godoy     :octocat:     
- * :bust_in_silhouette:  Jesús Pérez León     :octocat:
+ * :bust_in_silhouette:   Javier Martínez Godoy    
+ * :bust_in_silhouette:  Jesús Pérez León
 
 ----- 
 # Proceso de Diseño 
