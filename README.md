@@ -18,17 +18,18 @@ Logotipo:
 Miembros
  * :bust_in_silhouette:   Javier Martínez Godoy    
  * :bust_in_silhouette:  Jesús Pérez León
+-----
+
 
 ----- 
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
-
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
-
->>> Describe el plan de User Research (cómo se planteas)  
+[User Research Plan](https://github.com/jhavimg/DIU/blob/master/P1/User%20Research.pdf)
+El User Research se hace para tener claro de donde viene nuestra idea de aplicación, se explica el surmiento de la idea y se establecen unos objetivos con sus marcas para comprobar si se cumplen. Además, se plantean los métodos de investigación y como se llevará a cabo esta
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -38,8 +39,14 @@ Hemos realizado el análisis de 3 webs relacionadas con experiencias gastronómi
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
+Nos hemos inventado dos personajes imaginarios con perfiles y características distintas. Los dos personajes tienen que usar nuestra aplicación pero como tienen distintos perfiles y características nos dan una visión más amplia de como la gente va a usar nuestra aplicación y que problemas pueden llegar a tener.
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+### Josemi
+![Josemi](https://github.com/jhavimg/DIU/assets/28204866/871af289-b333-4aa8-8f53-c60510e30164)
+
+### Alejandro
+![Alejandro](https://github.com/jhavimg/DIU/assets/28204866/591d0b80-1351-45fb-af72-dbf2266f89bb)
+
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
