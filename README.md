@@ -95,7 +95,10 @@ Apuntamos a crear una comunidad activa y actualizada donde los usuarios puedan c
 ### Sitemap
 ![Sitemap](https://github.com/jhavimg/DIU/blob/master/P2/sitemap.png)
 
->>> Identificar términos para diálogo con usuario  
+### Labelling
+![Labelling1](https://github.com/jhavimg/DIU/assets/28204866/49bffb94-63db-48d1-8e02-86849b3bc8a5)
+![Labelling2](https://github.com/jhavimg/DIU/assets/28204866/1509c7ed-83bf-4885-abad-2d0244cd8218)
+
 
 Término | Significado     
 | ------------- | -------
