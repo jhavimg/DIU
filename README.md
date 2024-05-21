@@ -50,9 +50,13 @@ Nos hemos inventado dos personajes imaginarios con perfiles y características d
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+Hemos planteado dos experiencias de usuario muy habituales que se darían a diario, estas experiencias van desde como un usuario está interesado en buscar algo relacionado con experiencias gastronómicas orientales hasta que se convence con la información que encuentra y se acaba apuntando a una experiencia gastronómica. Con estos dos journey map se pueden ver las diferentes fases por las que pasa un usuario en el proceso y vemos cuales son los puntos más débiles para posteriormente en nuestra aplicación evitarlos
 
+### Josemi
+![JorneyMap_Josemi](https://github.com/jhavimg/DIU/assets/28204866/7215c761-bef4-4c72-a6c6-708d7543084e)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+### Alejandro
+![JorneyMap_Alejandro](https://github.com/jhavimg/DIU/assets/28204866/d1041013-8b8c-40ae-ae77-32271b846a1b)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
