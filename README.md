@@ -60,12 +60,8 @@ Hemos planteado dos experiencias de usuario muy habituales que se darían a diar
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
-
+[Documento Usability Review](https://github.com/jhavimg/DIU/blob/master/P1/Usability-review.xlsx)
+La valoración final obtenida es de 68 puntos. En general, el sitio web se puede usar pero no favorece la navegación por el mismo, hay que indagar por la página así como no tienen buenos mecanismos implementados para mejorar la satisfacción del usuario y efectividad. Algunos problemas son el mal rendimiento de la web, no tiene buscador ni ayudas para realizar determinadas acciones en la web. Por tanto, podemos decir que la web es usable y se pueden realizar todas las acciones pero tienen mucho que mejorar en usabilidad y de cara al usuario. 
 
 ## Paso 2. UX Design  
 
