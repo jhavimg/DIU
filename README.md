@@ -32,7 +32,7 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
-![Análisis_Competidores](https://github.com/jhavimg/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.pdf)
+![pdf](https://github.com/jhavimg/DIU/blob/master/P1/Competitor%20Analysis%20%5BDIU23%5D.pdf)
 
 Hemos realizado el análisis de 3 webs relacionadas con experiencias gastronómicas orientales, concretamente sushi. Hemos analizado los principales puntos clave de dichas web para saber en que son buenos nuestros competidores y que se les da peor. Todo ello nos sirve para cuando tengamos que plantear una propuesta de valor nuestra, conseguir ser mejores que la competencia conociendolos de cerca.
 
