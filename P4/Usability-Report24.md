@@ -6,9 +6,9 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### Hello World Academy
 
-### (Fecha)
+### 31/05/2024
 
 
 
@@ -16,7 +16,7 @@
 
 [img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+[Enlace a GITHUB del proyecto](https://github.com/DIU1-UX-I-did-it-again/DIU)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+[Informe realizado por Equipo Los Poulla explicar brevemente vuestra experiencia ]
 
 
 
@@ -38,7 +38,7 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+El proposito de la app es ofrecer multiples cursos para aprender a programar o desarrollarte más como programador, y ademas organizar y realizar eventos para que estudiantes y profersionales de mundo de la programación puedan interactuar.
 
  
 
