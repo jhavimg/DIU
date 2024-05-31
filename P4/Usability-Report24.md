@@ -48,9 +48,8 @@ El proposito de la app es ofrecer multiples cursos para aprender a programar o d
 
 
 
-[ Breve descripción de lo que contiene el documento 
 
-y Resumen conciso de problemas detectados ]
+Este informe presenta una evaluación de la usabilidad de la aplicación Hello World Academy. Se describen los problemas encontrados y se sugieren mejoras para mejorar al maximo la experiencia del usuario. Los principales inconvenientes detectados incluyen la complejidad en la navegación, la escasa variedad de funciones y la necesidad de soporte adicional para ciertos usuarios.
 
 
 
