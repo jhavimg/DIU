@@ -65,9 +65,9 @@ Este informe presenta una evaluación de la usabilidad de la aplicación Hello W
 
 Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
 
--Cuestionarios SUS (System Usability Scale): Se recogieron respuestas de usuarios para obtener un puntaje de usabilidad.
+ -Cuestionarios SUS (System Usability Scale): Se recogieron respuestas de usuarios para obtener un puntaje de usabilidad.
 
--Eyetracking: Se utilizó para analizar el patrón de mirada y las áreas de interés.
+ -Eyetracking: Se utilizó para analizar el patrón de mirada y las áreas de interés.
 
 
  
