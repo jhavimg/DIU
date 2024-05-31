@@ -74,7 +74,7 @@ Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+<img src="https://github.com/jhavimg/DIU/blob/master/P4/Usuarios.png" alt="usability Download png" />
 
 
 
