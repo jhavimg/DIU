@@ -49,7 +49,7 @@ El proposito de la app es ofrecer multiples cursos para aprender a programar o d
 
 
 
-Este informe presenta una evaluación de la usabilidad de la aplicación Hello World Academy. Se describen los problemas encontrados y se sugieren mejoras para mejorar al maximo la experiencia del usuario. Los principales inconvenientes detectados incluyen la complejidad en la navegación, la escasa variedad de funciones y la necesidad de soporte adicional para ciertos usuarios.
+Este informe presenta una evaluación de la usabilidad de la aplicación Hello World Academy. Se describen los problemas encontrados y se sugieren algunos consejos para mejorar al maximo la experiencia del usuario. Los principales inconvenientes detectados incluyen el tamaño del website y que algunos usuarios piensa que puede ser complicado aprender a manejar la pagina para otro usuarios.
 
 
 
@@ -63,7 +63,12 @@ Este informe presenta una evaluación de la usabilidad de la aplicación Hello W
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
+
+-Cuestionarios SUS (System Usability Scale): Se recogieron respuestas de usuarios para obtener un puntaje de usabilidad.
+
+-Eyetracking: Se utilizó para analizar el patrón de mirada y las áreas de interés.
+
 
  
 
