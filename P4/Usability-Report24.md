@@ -115,5 +115,4 @@ Las pruebas de usabilidad nos han indicado la necesidad real de las aplicaciones
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
-
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Las técnicas implementadas resultaron efectivas para identificar errores ocultos y problemas de usabilidad en la aplicación Hello World Academy. Las pruebas realizadas con usuarios reales brindaron información valiosa que no habiamos tenido en cuanta en el desarrollo como puede ser la longitud de la pagina, y los resultados de SUS y el Eye Tracking proporcionaron una visión clara de las áreas que requieren mejoras.
