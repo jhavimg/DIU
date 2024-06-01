@@ -79,7 +79,7 @@ Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
 ### Resultados pruebas
 Para consultar el análisis de los resultados de los cuestionarios SUS en este [archivo](https://github.com/jhavimg/DIU/blob/master/P4/Resultado%20AB%20testing.pdf)
 
-Para consultar el análisis de los resultados de las pruebas de eye tracking en este archivo [archivo](https://github.com/jhavimg/DIU/blob/master/P4/EyeTracking_y_an%C3%A1lisis_resultados.pdf)
+Para consultar el análisis de los resultados de las pruebas de eye tracking en este [archivo](https://github.com/jhavimg/DIU/blob/master/P4/EyeTracking_y_an%C3%A1lisis_resultados.pdf)
 
 ## 4 CONCLUSIONES 
 
