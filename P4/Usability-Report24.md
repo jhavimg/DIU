@@ -80,7 +80,7 @@ Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
 
 
 
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+Las pruebas de usabilidad nos han indicado la necesidad real de las aplicaciones o sitios web no sean tan largos de recorrer, es decir, que tengan la máxima funcionalidad en el menor espacio posible, siempre y cuando las funcionalidades este correctamente acopladas y relacionas. También esta prueba nos ha enseñado que aunque por lo general los usuarios tiene comportamientos parecidos estos siempre van a discrepar en alguna cuestión. Con el Eye Tracking nos hemos dado cuenta de cuales son las partes de una pagina que mas miran los usuarios, en nuestro caso De EGO y del proyecto que hemos analizado los usuarios suelen mirar a los sitios mas importantes por lo que determinamos que los elementos están son distinguibles y que al usuario no le resultaría en ninguno de los casos complicado la navegación por la pagina.
 
 
 
