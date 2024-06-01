@@ -76,27 +76,6 @@ Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
 
 <img src="https://github.com/jhavimg/DIU/blob/master/P4/Usuarios.png" alt="usability Download png" />
 
-
-
-
-
-#### Resultados obtenidos
-##### Cuestionarios SUS
-La aplicación EGO ha sido evaluada a través de dos cuestionarios SUS, completados por dos usuarios: Alejandro y Sofía. Alejandro, un ingeniero de software de 32 años con alta experiencia en TIC, otorgó una valoración final de 92.5. Sofía, una abogada de 25 años con experiencia media en TIC, calificó la aplicación con 85. Estos resultados sugieren una percepción positiva de la usabilidad de EGO, con puntuaciones altas en la mayoría de las preguntas del cuestionario. Alejandro se mostró particularmente satisfecho, indicando que encontraría fácil utilizar la aplicación sin necesidad de ayuda externa y que las funciones del sitio web están bien integradas. Además, ambos usuarios consideraron que el manejo del sitio era confiable y que podrían aprender a usarlo rápidamente. Sin embargo, se observa una discrepancia significativa en la pregunta relacionada con la percepción de consistencia en el sitio, donde Alejandro asignó una puntuación de 4 y Sofía una de 1, lo que sugiere que las mejoras en la consistencia del diseño podrían beneficiar la percepción de usabilidad entre usuarios con diferentes niveles de experiencia. En general, las altas valoraciones reflejan una experiencia de usuario mayormente positiva, destacando la facilidad de uso y la integración de funciones.
-
-La aplicación Hello World fue evaluada también por dos usuarios: David y Valentina. David, un médico de 44 años con experiencia media/alta en TIC, calificó la aplicación con un puntaje de 82.5, mientras que Valentina, una bibliotecaria de 58 años con baja experiencia en TIC, otorgó una valoración de 77.5. Las puntuaciones obtenidas indican una experiencia de usuario positiva pero con ciertas áreas de mejora. David mostró un alto grado de satisfacción en términos de frecuencia de uso y facilidad para navegar el sitio sin ayuda, pero encontró algunas inconsistencias y dificultades en el manejo avanzado del sitio. Valentina, por otro lado, aunque también percibió la aplicación como fácil de usar en términos generales, fue más crítica en aspectos como la integración de funciones y la confianza en el manejo del sitio. La puntuación de Valentina en la consistencia del sitio y la facilidad para aprender a usarlo también fue baja, lo que podría sugerir la necesidad de una interfaz más intuitiva para usuarios con menor experiencia en TIC. En resumen, aunque la aplicación Hello World es bien recibida, los resultados sugieren que se debe prestar atención a la mejora de la consistencia y la facilidad de uso, especialmente para usuarios con menos experiencia tecnológica.
-
-##### Eye Tracking
-
-
-
-
-
-
-
-
-
-
 ## 4 CONCLUSIONES 
 
 
