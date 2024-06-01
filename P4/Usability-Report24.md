@@ -81,10 +81,9 @@ Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
 
 
 #### Resultados obtenidos
+Teniendo en cuenta los resultados obtenidos en los cuestionarios SUS para la aplicación EGO, vemos que obtiene una puntuación entre B y A, por lo que en usabilidad es prácticamente excelente, menos algunos pequeños detalles. Se puede resaltar 
 
-
-
-(resultado de SUS)
+Por otro lado, para la aplicación Hello World se ha obtenido 
 
 
 
