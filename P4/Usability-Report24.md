@@ -89,19 +89,24 @@ Las pruebas de usabilidad nos han indicado la necesidad real de las aplicaciones
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+* En general la aplicacion de Hello World Academy es poco intuitiva
+* Los usuarios no miran las flechas en la pagina principal
+* No hay una barra de navegación
 
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+* Tiene una buena estructura y esta muy ordenado
+* Tiene una buena paleta de colores.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
+* Colocar mejor los elementos como el menu depegable dentro de la cabecera
+* Hacer un menu de navegación
+* Introducir más elementos en la pagina principal.
 
 
 
