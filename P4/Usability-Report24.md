@@ -76,6 +76,9 @@ Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
 
 <img src="https://github.com/jhavimg/DIU/blob/master/P4/Usuarios.png" alt="usability Download png" />
 
+### Resultados pruebas
+Para consultar el análisis de los resultados de las pruebas se encuentra en este [archivo](https://github.com/jhavimg/DIU/blob/master/P4/Resultados_pruebas.pdf)
+
 ## 4 CONCLUSIONES 
 
 
